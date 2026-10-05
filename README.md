@@ -1,3 +1,3 @@
-# HNU Vision Robot
+# HNU-vision-robot
 
-HNU vision robot project.
+HNU Vision Robot project.
